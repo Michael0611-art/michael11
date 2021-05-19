@@ -1,0 +1,7 @@
+print("XXXXXXXXXXXXX")
+print("X  _     _  X")
+print("X  O     O  X")
+print("X     ^     X")
+print("X  \\_____/  X")
+print("X           X")
+print("XXXXXXXXXXXXX")
